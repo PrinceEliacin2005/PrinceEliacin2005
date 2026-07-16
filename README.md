@@ -2,7 +2,7 @@
 
 Im Prince Eliacin, A CyberSecurity & Network Engineering Student
 
-Currently Practicing my skills with TryHackMe, Active Directory, and Zendesk
+Currently Practicing my skills with TryHackMe, Active Directory, and Spiceworks Cloud Help Desk
 
 Looking for any and all opportunities to grow my skills!
 
